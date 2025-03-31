@@ -5,3 +5,4 @@ openpyxl
 PyPDF2
 wetterdienst
 cryptography
+fpdf
