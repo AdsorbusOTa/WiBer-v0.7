@@ -403,7 +403,7 @@ def get_stationen_und_parameter(coords, entfernung_km):
 if plz:
     coords = get_coordinates_from_plz(plz)
     if coords:
-        entfernung = st.slider(t["weather_search_radius"], min_value=10, max_value=300, value=100, step=10)
+        entfernung = st.slider(t["weather_search_radius"], min_value=10, max_value=300, value=30, step=10)
 
         st.markdown("### Temperaturgrenzen definieren")
         temp_grenze_1 = st.number_input(t["weather_limit_1"], min_value=-50.0, max_value=60.0, value=12.0, step=0.5)
