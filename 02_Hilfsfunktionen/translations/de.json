@@ -24,7 +24,7 @@
     "messung_info": "💡 Tragen Sie hier den gemessenen Wert Stromverbrauch Kältemaschine (kWh) und die Dauer der Messung in Stunden ein.",
     "leistung_info": "💡 Maximale Kälteleistung laut Hersteller. Durchschnittswerte können geschätzt oder berechnet werden.",
     "alternative_info": "💡 Volumenstrom in m³/h und Temperaturen an Ein- und Austritt zur Berechnung der Leistung.",
-        "section_3": "3. Daten der Bestandskältemaschine",
+    "section_3": "3. Daten der Bestandskältemaschine",
     "section_4": "4. Alternative Leistungsberechnung",
     "input_hours_per_year": "Betriebsstunden pro Jahr",
     "input_power_price": "Strompreis pro kWh (EUR)",
