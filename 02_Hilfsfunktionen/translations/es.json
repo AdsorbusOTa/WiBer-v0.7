@@ -3,6 +3,7 @@
     "_updated": "2025-03-29",
     "_description": "Archivo de idioma para WiBer v0-7",
     "app_title": "Adsorbus CoolCalc",
+    "section_title_main": "Entrada de datos para la máquina de refrigeración",
     "welcome": "Hola Siggi",
     "site": "Ubicación de la instalación",
     "operator": "Operador / Empresa",
